@@ -2,7 +2,7 @@
 
 Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github compartilhado com os usuarios “ldseinhardt” e “wqsandoval”.
 Recomenda-se o uso da ferramenta Cypress para execução das tarefas de automação.
-O prazo para execução das tarefas é de 3 dias.
+O prazo para execução das tarefas é de 4 dias.
 
 
 1 - Elaborar um levantamento de cenários para a funcionalidade de cadastro, acessivel em https://sandbox.melhorenvio.com.br/cadastre-se, utilizando a sintaxe Gherkin.
@@ -12,7 +12,7 @@ O prazo para execução das tarefas é de 3 dias.
 3 - Desenvolver scripts de teste automatizados de api na rota de cadastro para os seguintes cenarios:
 	 	
  	Cenarios:
- 	1 - Ao enviar um payload valido, verificar que a resposta tem um status code 201 e contém a propriedade token preenchida.
+ 	1 - Ao enviar um payload válido, verificar que a resposta tem um status code 201 e contém a propriedade token preenchida.
   	2 - Ao enviar um payload sem a propriedade document, verificar que a resposta tem um status code 422 e retorna uma mensagem de erro indicando a obrigatoriedade do CPF.
 	
 	Informações do Endpoint:
