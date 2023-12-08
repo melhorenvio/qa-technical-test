@@ -1,7 +1,9 @@
 ## Teste técnico Analista de Qualidade Melhor Envio
 
-Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github,que deverá ser compartilhado com os usuarios “ldseinhardt” e “wqsandoval”.
+Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github compartilhado com os usuarios “ldseinhardt” e “wqsandoval”.
 Recomenda-se o uso da ferramenta Cypress para execução das tarefas de automação.
+O prazo para execução das tarefas é de 3 dias.
+
 
 1 - Elaborar um levantamento de cenários para a funcionalidade de cadastro, acessivel em https://sandbox.melhorenvio.com.br/cadastre-se, utilizando a sintaxe Gherkin.
 	
