@@ -18,9 +18,10 @@ O prazo para execução das tarefas é de 4 dias.
 	Informações do Endpoint:
 		URL:"https://sandbox.melhorenvio.com.br/api/v2/users"
 		Method: POST
-		Headers:{
-			Accept: "application/json"
-			Content-Type: "application/json"}
+		Headers: {
+			Accept: "application/json",
+			Content-Type: "application/json"
+		}
 		Payload exemplo :{"firstname":"Teste","lastname":"teste","email":"teste@teste.com","document":"71172405042","birthdate":"1990-01-01","phone_mobile":"51998989899","password":"a1a2a3a4a5a6","terms":true}
 	 
 4 (opcional) - Incluir no projeto de automação uma solução de report de execução dos testes. 
