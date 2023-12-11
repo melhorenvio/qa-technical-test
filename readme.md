@@ -5,13 +5,13 @@ Recomenda-se o uso da ferramenta Cypress para execução das tarefas de automaç
 O prazo para execução das tarefas é de 4 dias.
 
 
-1 - Elaborar um levantamento de cenários para a funcionalidade de cadastro, acessivel em https://sandbox.melhorenvio.com.br/cadastre-se, utilizando a sintaxe Gherkin.
+1 - Elaborar um levantamento de cenários para a funcionalidade de cadastro, acessível em https://sandbox.melhorenvio.com.br/cadastre-se, utilizando a sintaxe Gherkin.
 	
-2 - Desenvolver scripts de testes automatizados de interface para pelo menos 2 dos cenários levantados no passo 1. 
+2 - Desenvolver scripts de testes automatizados de interface para pelo menos 2 dos cenários levantados no passo 1.
 
-3 - Desenvolver scripts de teste automatizados de api na rota de cadastro para os seguintes cenarios:
+3 - Desenvolver scripts de testes automatizados de api na rota de cadastro para os seguintes cenários:
 	 	
- 	Cenarios:
+ 	Cenários:
  	1 - Ao enviar um payload válido, verificar que a resposta tem um status code 201 e contém a propriedade token preenchida.
   	2 - Ao enviar um payload sem a propriedade document, verificar que a resposta tem um status code 422 e retorna uma mensagem de erro indicando a obrigatoriedade do CPF.
 	
@@ -25,4 +25,4 @@ O prazo para execução das tarefas é de 4 dias.
 	 
 4 (opcional) - Incluir no projeto de automação uma solução de report de execução dos testes. 
 
-5 (opcional) - Criar no repositorio Github um workflow via Github actions para executar os testes e reportar no Github Pages Automaticamente.
+5 (opcional) - Criar no repositório Github um workflow via Github actions para executar os testes e reportar no Github Pages Automaticamente.
