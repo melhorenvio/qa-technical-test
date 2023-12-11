@@ -1,3 +1,5 @@
+![Melhor Envio](https://public.melhorenvio.com.br/images/logo-azul.png)
+
 ## Teste técnico Analista de Qualidade Melhor Envio
 
 Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github compartilhado com os usuarios “ldseinhardt” e “wqsandoval”.
