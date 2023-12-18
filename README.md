@@ -30,4 +30,4 @@
 	 
 - 4 (opcional) : Incluir no projeto de automação uma solução de report de execução dos testes. 
 
-- 5 (opcional) : Criar no repositório Github um workflow via Github actions para executar os testes e reportar no Github Pages Automaticamente.
+- 5 (opcional) : Criar no repositório Github um workflow via Github actions para executar os testes e gerar reporta automaticamente.
