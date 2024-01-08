@@ -6,7 +6,7 @@
 - Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github compartilhado com os usuarios “ldseinhardt” , “wqsandoval” e "mortalisnoia".
 - Recomenda-se o uso da ferramenta Cypress para execução das tarefas de automação.
 - O prazo para execução das tarefas é de 4 dias.
-- Em caso de duvidas, entre em contato com : william.sandoval@melhorenvio.com, luan.einhardt@melhorenvio.com
+- Em caso de duvidas, entre em contato com : michel.luz@melhorenvio.com, luan.einhardt@melhorenvio.com
 
 # Tarefas
 1 : Elaborar um levantamento de cenários para a funcionalidade de cadastro, acessível em https://sandbox.melhorenvio.com.br/cadastre-se, utilizando a sintaxe Gherkin.
