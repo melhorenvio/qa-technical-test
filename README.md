@@ -3,7 +3,7 @@
 ## Teste técnico Analista de Qualidade Melhor Envio
 
 # Instruções
-- Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github compartilhado com os usuarios “ldseinhardt” , “wqsandoval” e "mortalisnoia".
+- Realizar as tarefas descritas abaixo, devendo ser entregue por meio de repositório privado no Github compartilhado com os usuarios “ldseinhardt” , “wqsandoval”.
 - Recomenda-se o uso da ferramenta Cypress para execução das tarefas de automação.
 - O prazo para execução das tarefas é de 4 dias.
 - Em caso de duvidas, entre em contato com : william.sandoval@melhorenvio.com, luan.einhardt@melhorenvio.com
