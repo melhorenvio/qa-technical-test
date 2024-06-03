@@ -28,12 +28,12 @@
 		}
 		Payload exemplo :{"firstname":"Teste","lastname":"teste","email":"teste@teste.com","document":"71172405042","birthdate":"1990-01-01","phone_mobile":"51998989899","password":"a1a2a3a4a5a6","terms":true}
 	 
-- 5 : Criar no repositório Github um workflow via Github actions para executar os testes e exportar relatorio ao final da execução.
-- 6 : Utilizando a ferramenta K6, gerar um script de teste de performance seguindo as seguintes especificações :
+- 4 : Criar no repositório Github um workflow via Github actions para executar os testes e exportar relatorio ao final da execução.
+- 5 : Utilizando a ferramenta K6, gerar um script de teste de performance seguindo as seguintes especificações :
 	- URL : https://test.k6.io/pi.php?decimals=100
 	- Method : GET
 	- Carga inicial de 5 requests por segundo durante 10 segundos,subindo a 10 requests por segundo nos próximos 30 segundos e descendo a 2 requests por segundo por mais 60 segundos.
-	- O teste deve ser falhar se o tempo de resposta MEDIO for superior a 2 segundos ou se a taxa de erros for maior que 95%.
+	- O teste deve ser falhar se o tempo de resposta MEDIO for superior a 2 segundos ou se a taxa de sucesso for menor que 95%.
  
-- 7: Criar um Workflow no repositorio github para executar o teste de performance e exportar relatorio ao final da execução.
+- 6: Criar um Workflow no repositorio github para executar o teste de performance e exportar relatorio ao final da execução.
 	
