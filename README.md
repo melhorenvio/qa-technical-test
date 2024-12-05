@@ -26,7 +26,7 @@
 			Accept: "application/json",
 			Content-Type: "application/json"
 		}
-		Payload exemplo :{"firstname":"Teste","lastname":"teste","email":"teste@teste.com","document":"71172405042","birthdate":"1990-01-01","phone_mobile":"51998989899","password":"a1a2a3a4a5a6","terms":true}
+		Payload exemplo :{"firstname":"Teste","lastname":"teste","email":"teste@teste.com","document":"71172405042","birthdate":"1990-01-01","phone_mobile":"51998989899","password":"a1a2a3a4a5a6","terms":true,"recaptcha_token":"123456789"}
 	 
 - 4 : Criar no repositório Github um workflow via Github actions para executar os testes e exportar relatorio ao final da execução.
 - 5 : Utilizando a ferramenta K6, gerar um script de teste de performance seguindo as seguintes especificações :
